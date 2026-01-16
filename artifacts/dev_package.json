@@ -1,0 +1,84 @@
+{
+	"id": "481aace9-ed8e-4432-940f-85eae9b1b0ac",
+	"createdAt": "2026-01-16T18:04:19.053Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/leaking-package.git",
+		"branch": "main"
+	},
+	"name": "prom-leaking-package",
+	"description": null,
+	"ver": "26.01.16.1904",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"theme_generator": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "d19c4acb-2844-400c-af81-f66c1db19169",
+			"description": null,
+			"name": "prom-leaking-package-employee"
+		},
+		{
+			"id": "9aedeceb-efa2-4832-abd6-d53451cbf66b",
+			"description": null,
+			"name": "prom-leaking-package-manager"
+		}
+	],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "5c82ebc9-5e6f-4b37-a28d-32f9f435b94d",
+			"description": null,
+			"name": "prom-leaking-package-hr"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "d6afc391-8ea0-4b60-a123-67bba900558b",
+			"name": "prom-leaking-package",
+			"description": null
+		}
+	],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": []
+}
